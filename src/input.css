@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap");
+
+:root {
+  --bookmark-purple: #5267df;
+  --bookmark-red: #fa5959;
+  --bookmark-blue: #242a45;
+  --bookmark-grey: #9194a2;
+  --bookmark-white: #f7f7f7;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.btn{
+  @apply shadow-md py-3 px-6 rounded-md transition duration-300
+}
+
+.btn-purple{
+ @apply bg-color-purlpe text-white
+}
+
+.btn-white{
+  @apply bg-white
+}

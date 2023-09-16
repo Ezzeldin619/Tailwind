@@ -1,0 +1,15 @@
+npm init -y
+initializes package.json (file that has all installed packages from npm)
+
+npm install tailwindcss
+installs tailwind package 
+
+npx tailwindcss init
+shows the tailwind.config file 
+
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+Start the Tailwind CLI build process
+
+
+
+Note: CTRL + C stops the terminal
