@@ -13,6 +13,11 @@ module.exports = {
         "color-blue": "var(--bookmark-blue)",
         "color-grey": "var(--bookmark-grey)",
         "color-white": "var(--bookmark-white)",
+
+        v2blue: "var(--v2blue)",
+        v2lightblue: "var(--v2lightblue)",
+        v2black: "var(--v2black)",
+        v2white: "var(--v2white)",
       },
       container: {
         center: true,

@@ -10,6 +10,10 @@
   --bookmark-blue: #242a45;
   --bookmark-grey: #9194a2;
   --bookmark-white: #f7f7f7;
+  --v2blue : #4C5FD5;
+  --v2lightblue : #dadbf1;
+  --v2black : #000000;
+  --v2white : #fff;
 }
 
 * {

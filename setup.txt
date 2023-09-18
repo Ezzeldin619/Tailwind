@@ -1,6 +1,8 @@
 npm init -y
 initializes package.json (file that has all installed packages from npm)
 
+https://tailwindcss.com/docs/installation 
+
 npm install tailwindcss
 installs tailwind package 
 
